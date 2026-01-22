@@ -12,7 +12,7 @@ public class NumberGuessingGame {
         int guess;
         int attempts = 0;
 
-        System.out.println("🎯 Welcome to Number Guessing Game!");
+        System.out.println("🎯 Welcome to Number Guessing Game developed by Monty!");
         System.out.println("Guess a number between 1 and 100");
 
         while (true) {
